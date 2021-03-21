@@ -1,6 +1,6 @@
 {
   "name": "apple-mapkit-js",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "description": "An NPM installable package of Apple's Mapkit JS",
   "main": "mapkit.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukeMizuhashi/apple-mapkit-js.git"
+    "url": "git+https://github.com/francescodoffizi/apple-mapkit-js.git"
   },
   "keywords": [
     "apple",
@@ -17,7 +17,7 @@
   "author": "Luke Mizuhashi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LukeMizuhashi/apple-mapkit-js/issues"
+    "url": "https://github.com/francescodoffizi/apple-mapkit-js/issues"
   },
-  "homepage": "https://github.com/LukeMizuhashi/apple-mapkit-js#readme"
+  "homepage": "https://github.com/francescodoffizi/apple-mapkit-js#readme"
 }
